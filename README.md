@@ -1,28 +1,28 @@
-# TEAGLASS Culture Meme Token (TGLSS)
+TEAGLASS Culture Meme Token (TGLSS)
 
-**TEAGLASS (TGLSS)** — a verified ERC20 token on BNB Smart Chain.
+Not a coin. For tea lovers. This is a meme.
 
-- **Symbol:** TGLSS  
-- **Decimals:** 5  
-- **Total Supply:** 18,101,981,000  
-- **Deployment Date:** 2026-01-01  
-- **Verified & Deploy:** BSC Mainnet  
-- **Contract Address:** 0xd6b92806d5cA246D6C4Ba359a2689314DD2FAd75
+Now on Solana
 
-## Whitepaper Summary
+Mint: E1dsYuFzGPbxXPxHrqrrEQdPbk84fbXkudu2o9H9o12T
 
-Tea is timeless, inexpensive, harmless, and a gathering point for culture. Unlike coffee or alcohol, tea has historically been a medium of calm, social bonding, and reflection. TEAGLASS celebrates this tradition, turning it into a cultural token that emphasizes simplicity, serenity, and shared heritage.
+Decimals: 5
 
-**Further Explanation:**  
-TeaLovers is not a community; it is a cultural brotherhood because tea is a heritage passed down through history. This token embodies the ethos of calm, minimalism, and long-lasting cultural value, avoiding hype or profit-driven narratives.
+Total Supply: 18,101,981,000
 
-## Notes
+Trade:
+https://raydium.io/swap/?inputCurrency=sol&outputCurrency=E1dsYuFzGPbxXPxHrqrrEQdPbk84fbXkudu2o9H9o12T
 
-- Fixed supply, no minting  
-- DEX compatible (e.g., PancakeSwap)  
-- Meme-free, cultural token  
-- Not financial advice
-  
-**Manifesto:**  
-TEAGLASS IS NOT A COMMUNITY. IT IS A CULTURAL BROTHERHOOD.
-  
+Pool:
+GUVRYHmqjfpA2NJw2RMLNwMFCaySBNwTHgVCVseZ3fNf
+
+Legacy on BSC (Archive)
+
+Contract: 0xd6b92806d5cA246D6C4Ba359a2689314DD2FAd75
+
+Decimals: 5
+
+Total Supply: 18,101,981,000
+
+This is a meme.
+Drink tea. Stay calm.
